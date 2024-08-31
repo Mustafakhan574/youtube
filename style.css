@@ -1,0 +1,27 @@
+* {
+   background-color:rgb(255, 255, 255);
+}
+button{
+    display:block;
+    color:blue;
+    background-color: pink;
+}
+.name{
+    color:yellow;
+}
+
+#apna{
+    color:darkblue;
+}
+div{
+    /*display:inline;*/
+    display:inline-block;
+    height:100px;
+    width:100px;
+    margin:25px;
+    padding:25px;
+}
+#box{
+   /* display:none;*/
+   visibility:hidden;
+}
