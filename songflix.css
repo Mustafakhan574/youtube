@@ -141,6 +141,7 @@ button{
     }
     .search{
         font-size:20px;
+        width:65vw;
     }
     .box{
         height:143px;
